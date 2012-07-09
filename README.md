@@ -1,7 +1,9 @@
 Beginning PHP
 =============
 
-This is the repository for beginner up to novice level PHP code examples, exercises and tutorials.  From complete beginner to novice level, you should find something here to interest and challenge you.  All code samples will display a 1 to 5 rating indicating difficulty (1 == super easy, 5 == challenging).
+This is the repository for beginner up to novice level PHP code examples, exercises and tutorials.  From complete beginner to novice level, you should find something here to interest and challenge you.  All code samples will display a 1 to 5 rating indicating difficulty:
+
+1 (basic) through 5 (challenging)
 
 Contributions
 =============
