@@ -1,13 +1,12 @@
-
 ProTalk  http://protalk.me
 
 A community site that provides a central point of access to audio/ video content
 with a PHP focus.  You can expect to find talks from all the big conferences (those
 that record sessions that is) and podcasts from the following excellent series':
 
-Voices of the Elephpant  http://www.elephantvoices.org/
-DevHell  http://devhell.info/
-DPC Radio http://blog.ibuildings.com/dpc-radio/
+Voices of the Elephpant    http://www.elephantvoices.org/
+DevHell                    http://devhell.info/
+DPC Radio                  http://blog.ibuildings.com/dpc-radio/
 
 ...and many more.  
 
