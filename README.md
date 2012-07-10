@@ -3,12 +3,12 @@ Beginning PHP
 
 This is the repository for beginner up to novice level PHP code examples, exercises and tutorials.  From complete beginner to novice level, you should find something here to interest and challenge you.
 
-File Nomenclature and Difficulty Indicator
+Filename Convention and Difficulty Indicator
 ==========================================
 
 Directory and file names have the following format:
 
-L<number from 1 to 5>_<descriptive name><type>.php
+Ldifficulty_DescriptiveNameContentType.php
 
 ..which translates into:
 
