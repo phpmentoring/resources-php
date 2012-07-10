@@ -8,19 +8,22 @@ and one solution file.  Some may contain an assets directory that pertain to the
 more than one way to solve a problem in programming, hence it will not be unusual to discover more than
 one solution file for an exercise.
 
-If you would like to contribute your own solution to an exercise for others to learn from, please open a pull
-request (and ensure you follow the nomenclature guidelines).
+Contributions
+-------------
 
-Nomenclature Guidelines
-=======================
+If you would like to contribute an exercise, or your own solution to an existing exercise for others to learn from, please open a pull
+request (and ensure you follow the filename convention below).
+
+Filename Convention 
+-------------------
 
 Directory and file names have the following format:
 
-Ldifficulty_DescriptiveNameCategoryName.php  
+Ldifficulty_DescriptiveNameContentType.php  
 
 ...which translates to:
 
-L3_RatingExercise.php
+L3_RatingExercise.php  or  L3_RatingSolution.php
 
 The letter 'L' at the beginning stands for 'Level' and is followed by a number from 1 to 5 denoting the
 perceived difficulty of the exercise.
