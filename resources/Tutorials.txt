@@ -1,11 +1,10 @@
-
 PHP The Right Way                 http://www.phptherightway.com/
 
 Command-line PHP? Yes, you can!   http://www.ibm.com/developerworks/library/os-php-command/
 
 PHP on the Command-line - Part 1  http://www.sitepoint.com/php-command-line-1-3/
 
-PHP CLI Tutorial			      http://www.php-cli.com/php-cli-tutorial.shtml
+PHP CLI Tutorial                  http://www.php-cli.com/php-cli-tutorial.shtml
 
-PHP Master					      http://phpmaster.com/
+PHP Master                        http://phpmaster.com/
 
