@@ -16,7 +16,11 @@ Nomenclature Guidelines
 
 Directory and file names have the following format:
 
-L3_DescriptiveNameCategoryName.php
+Ldifficulty_DescriptiveNameCategoryName.php  
+
+...which translates to:
+
+L3_RatingExercise.php
 
 The letter 'L' at the beginning stands for 'Level' and is followed by a number from 1 to 5 denoting the
 perceived difficulty of the exercise.
