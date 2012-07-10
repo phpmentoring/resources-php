@@ -1,10 +1,9 @@
 
+PHP Developer       http://www.phpdeveloper.org/
 
-PHP Developer 		http://www.phpdeveloper.org/
+Planet PHP          http://www.planet-php.net/
 
-Planet PHP			http://www.planet-php.net/
-
-LinkTuesday*		http://linktuesday.com/
+LinkTuesday*        http://linktuesday.com/
 
 Lorna Jane Mitchell	http://www.lornajane.net/
 
