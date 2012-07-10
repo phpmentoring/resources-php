@@ -1,7 +1,7 @@
 <?php
 
 /**
- * A refactored version of the function solution 1 that generates a
+ * A refactored version of solution 1 that generates a
  * random 5 star rating as a decimal number. 
  *
  * As well as the code being refactored, this solution outputs the 
