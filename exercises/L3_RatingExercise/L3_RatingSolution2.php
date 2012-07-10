@@ -1,8 +1,8 @@
 <?php
 
 /**
- * A refactored version of solution 1 that generates a
- * random 5 star rating as a decimal number. 
+ * A refactored version of solution 1 that generates a random 5 star 
+ * rating as a decimal number. 
  *
  * As well as the code being refactored, this solution outputs the 
  * result as <img> tags using the star images in the assets directory
