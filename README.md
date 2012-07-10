@@ -1,7 +1,20 @@
 Beginning PHP
 =============
 
-This is the repository for beginner up to novice level PHP code examples, exercises and tutorials.  From complete beginner to novice level, you should find something here to interest and challenge you.  All code samples will display a 1 (basic) through 5 (challenging) rating, indicating the perceived level of difficulty.  
+This is the repository for beginner up to novice level PHP code examples, exercises and tutorials.  From complete beginner to novice level, you should find something here to interest and challenge you.
+
+File Nomenclature and Difficulty Indicator
+==========================================
+
+Directory and file names have the following format:
+
+L<number from 1 to 5>_<descriptive name><type>.php
+
+..which translates into:
+
+L3_RatingExercise.php
+
+The letter 'L' at the beginning stands for 'Level' and is followed by a number from 1 (basic) to 5 (challenging) denoting the perceived difficulty of the exercise.
 
 Contributions
 =============
