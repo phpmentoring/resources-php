@@ -1,0 +1,10 @@
+
+PHP Master*			http://www.sitepoint.com/books/phppro1/
+
+PHP Architect		http://www.phparch.com/
+(magazine)
+
+
+
+
+*not suitable for absolute beginners, but should provide a good challenge for novice developers

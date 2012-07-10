@@ -1,0 +1,17 @@
+
+
+PHP Developer 		http://www.phpdeveloper.org/
+
+Planet PHP			http://www.planet-php.net/
+
+LinkTuesday*		http://linktuesday.com/
+
+Lorna Jane Mitchell	http://www.lornajane.net/
+
+
+
+
+*LinkTuesday isn't a blog, but it is a place where blog posts are highlighted
+by members of the PHP Community.  Links to interesting blog articles are tweeted each 
+Tuesday with the #linktuesday hashtag and the LinkTuesday site collects them up for
+central display.  Its well worth a visit.
