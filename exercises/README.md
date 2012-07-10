@@ -16,7 +16,7 @@ Nomenclature Guidelines
 
 Directory and file names have the following format:
 
-L<number from 1 to 5>_<exercise name>Exercise.php
+L/<number from 1 to 5/>_/<exercise name/>Exercise.php
 
 The letter 'L' at the beginning stands for 'Level' and is followed by a number from 1 to 5 denoting the
 perceived difficulty of the exercise.
