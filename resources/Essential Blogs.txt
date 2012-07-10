@@ -1,11 +1,10 @@
-
 PHP Developer       http://www.phpdeveloper.org/
 
 Planet PHP          http://www.planet-php.net/
 
 LinkTuesday*        http://linktuesday.com/
 
-Lorna Jane Mitchell	http://www.lornajane.net/
+Lorna Jane Mitchell http://www.lornajane.net/
 
 
 
