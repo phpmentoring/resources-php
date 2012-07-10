@@ -1,6 +1,6 @@
 PHP Master*     http://www.sitepoint.com/books/phppro1/
 
-PHP Architect		http://www.phparch.com/
+PHP Architect   http://www.phparch.com/
 (magazine)
 
 
