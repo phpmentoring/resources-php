@@ -10,7 +10,7 @@
  * 'Partial Star',
  * 'Empty Star'
  *
- * in a row, as required, to
+ * ...in a single row, as required, to
  * represent the rating.  Append the
  * randomly generated rating number
  * to the string, in parenthesis, to
@@ -24,7 +24,7 @@
  *
  * If you know HTML, output <img>
  * tags instead of strings, using
- * the star image provided in the
+ * the star images provided in the
  * assets directory.
  *
  * SOLUTION:
