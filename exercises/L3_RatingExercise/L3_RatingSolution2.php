@@ -11,23 +11,18 @@
 
 function setRating()
 {
-    //generate a random whole or decimal number between 0 and 5
     $rating = rand(0,50) / 10;
 
     $partialStar = 0;
 
-    //round rating down to nearest whole number
     $fullStars = floor($rating);
 
-    //determine whether a partial star is required
     if ($rating - $fullStars > 0) $partialStar = 1;
 
-    //calculate number of empty stars required
     $emptyStars = 5 - $fullStars - $partialStar;
 
     $ratingDisplay = '';
 
-    //generate html output
     for($i = 0; $i < $fullStars; $i++) {
         $ratingDisplay .= '<img src="assets/star_full.png" alt="Star image"/>';
     }
