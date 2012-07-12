@@ -1,9 +1,9 @@
 Level 1 Commenting Tutorial
 ---------------------------
 
-Getting comments right can be tricky when you're starting out. A good rule of thumb is that code should be self documenting, unless its particularly complex.
+Getting comments right can be tricky when you're just starting out. A good rule of thumb is that code should be self documenting, unless its particularly complex.
 
-Well chosen class, method and property names make code more readable and easier for otherdevelopers to understand (thisis what is meant by self-documenting).  Sometimes, however, areas of code can be necessarily complex and it is here thatcomments should be used as an aid to future you, and other developers who may be required to maintain your code.
+Well chosen class, method and property names make code more readable and easier for other developers to understand (thisis what is meant by self-documenting).  Sometimes, however, areas of code can be necessarily complex and it is here thatcomments should be used as an aid to future you, and other developers who may be required to maintain your code.
 
 ##Inline comments
 
