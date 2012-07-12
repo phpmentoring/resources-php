@@ -14,10 +14,11 @@
  * symbols should appear at the start of every new line in a 
  * multi-line comment.  
  *
- * Block comments can be wrapped by /* and */ symbols at the
- * start and end of the block.  The text you are reading now
- * is inside a block comment (the use of * on each line is not
- * required but can make it easier to spot the block comment).
+ * Block (multi-line) comments can be made using /* and */ symbols 
+ * at the start and end of the block.  The text you are reading now
+ * is inside a block comment (the use of additional * sybmols on each 
+ * line inside the block is not required but can make it easier to 
+ * spot the block comment).
  *
  * Below are some simple examples of bad, good and better use 
  * of comments, which should give you a clearer idea of when and 
