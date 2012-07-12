@@ -3,9 +3,9 @@ Level 3 Rating Exercise
 
 Write a function that generates a random rating from 0 to 5 and outputs the following strings (in place of star images) in a single row, as required, to represent the rating:
 
-'Full Star',
-'Partial Star',
-'Empty Star'
+* 'Full Star',
+* 'Partial Star',
+* 'Empty Star'
 
 Append the randomly generated rating number to the string, in parenthesis, to aid testing.
 
