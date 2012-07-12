@@ -77,5 +77,5 @@ function userExists($id)
 ### Code samples for this tutorial were provided by @lazymanc http://www.wheelsandcogs.co.uk
 
 ### Related reading:  http://www.codinghorror.com/blog/2006/12/code-tells-you-how-comments-tell-you-why.html
-###					  http://www.codinghorror.com/blog/2008/07/coding-without-comments.html
+###                   http://www.codinghorror.com/blog/2008/07/coding-without-comments.html
 
