@@ -7,7 +7,7 @@
  *
  */
 
-function setRating()
+function getRating()
 {
     $actualRating = rand(0,50) / 10;
 
@@ -48,6 +48,6 @@ function setRating()
 
 
 //execute the function
-setRating();
+getRating();
 
 //refresh the page multiple times to see the output change
