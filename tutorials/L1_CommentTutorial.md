@@ -17,7 +17,8 @@ Well chosen class, method and property names make code more readable and easier 
 
 ##Block comments
 
-    /* Block comments can be wrapped by /* and */ symbols at the
+    /* 
+     * Block comments can be wrapped by /* and */ symbols at the
      * start and end of the block.  The text you are reading now
      * is inside a block comment (the use of * on each line is not
      * required but can make it easier to spot the block comment).
