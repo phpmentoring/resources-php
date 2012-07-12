@@ -9,7 +9,6 @@
 
 function setRating()
 {
-    //generate a random whole or decimal number between 0 and 5
     $actualRating = rand(0,50) / 10;
 
     $star_full = $actualRating;
@@ -27,12 +26,10 @@ function setRating()
         $star_partial = 0;
     }
 
-    //calculate the number of empty stars required
     $star_empty = 5 - $star_full - $star_partial;
 
     $ratingDisplay = '';
 
-    //generate output
     for($i = 0; $i < $star_full; $i++) {
         $ratingDisplay .= 'Full Star  ';
     }
