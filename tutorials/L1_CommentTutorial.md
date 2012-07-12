@@ -11,7 +11,7 @@ Well chosen class, method and property names make code more readable and easier 
     // symbols should appear on every new line in a multi-line
     // comment, as shown here.
 
-    #  Its good to be consistent, to you should probably pick a
+    #  Its good to be consistent, so you should probably pick a
     #  symbol and stick with it.
 
 
