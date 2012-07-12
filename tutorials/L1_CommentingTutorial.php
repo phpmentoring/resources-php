@@ -11,8 +11,8 @@
  * developers who may be required to maintain your code.
  *
  * Inline comments can be made with # and // symbols.  These
- * symbols should appear on every new line in a multi-line 
- * comment.  
+ * symbols should appear at the start of every new line in a 
+ * multi-line comment.  
  *
  * Block comments can be wrapped by /* and */ symbols at the
  * start and end of the block.  The text you are reading now
