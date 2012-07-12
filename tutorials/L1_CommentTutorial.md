@@ -11,13 +11,14 @@ Well chosen class, method and property names make code more readable and easier 
     // symbols should appear on every new line in a multi-line
     // comment, as shown here.
 
-    #  Its good to be consistent, to you should probably pick a
+    #  Its good to be consistent, so you should probably pick a
     #  symbol and stick with it.
 
 
 ##Block comments
 
-    /* Block comments can be wrapped by /* and */ symbols at the
+    /* 
+     * Block comments can be wrapped by /* and */ symbols at the
      * start and end of the block.  The text you are reading now
      * is inside a block comment (the use of * on each line is not
      * required but can make it easier to spot the block comment).
