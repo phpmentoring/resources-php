@@ -28,7 +28,7 @@ Below are some simple examples of bad, good and better use of comments, which sh
 
 
 
-## BAD COMMENTS
+##Bad comments
 
     // get a user by primary key
     $user = $this->getRepository('User')->findOneById($id);
@@ -44,7 +44,7 @@ Also, when refactoring code it is easy to forget to update the comments.  Out of
 
 
 
-## BETTER COMMENTS
+##Better comments
 
     // confirm the user exists
     $user = $this->getRepository('User')->findOneById($id);
@@ -56,7 +56,7 @@ Also, when refactoring code it is easy to forget to update the comments.  Out of
 This single comment is better because it is short and concise, clearly indicating the purpose of the code that follows.
 
 
-## EVEN BETTER?
+##Even better?
 
 if(!userExists($id)) {
   throw new NotFoundHttpException('No user found for id: '.$id);
