@@ -58,25 +58,25 @@ This single comment is better because it is short and concise, clearly indicatin
 
 ##Even better?
 
-if(!userExists($id)) {
-  throw new NotFoundHttpException('No user found for id: '.$id);
-}
+    if(!userExists($id)) {
+      throw new NotFoundHttpException('No user found for id: '.$id);
+    }
 
-/**
- * Checks for an existing user.
- *
- * @return bool
- */
-function userExists($id)
-{
-	$user = $this->getRepository('User')->findOneById($id);
+    /**
+     * Checks for an existing user.
+     *
+     * @return bool
+     */
+    function userExists($id)
+    {
+        $user = $this->getRepository('User')->findOneById($id);
 
-	if(!$user) {
-	   return false;
-	}
+        if(!$user) {
+           return false;
+        }
 
-	return true;
-}
+        return true;
+    }
 
 This example is 'even better' because the code is cleaner and the block comment provided describes the userExists method clearly and concisely, indicating the expected return type.
 
