@@ -7,7 +7,7 @@
  * readable and easier for other developers to understand (this
  * is what is meant by self-documenting).  Sometimes, however, 
  * areas of code can be necessarily complex and it is here that
- * comments should be used as an aid to future you, and other 
+ * comments should be used as an aid to 'future you', and other 
  * developers who may be required to maintain your code.
  *
  * Inline comments can be made with # and // symbols.  These
