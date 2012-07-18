@@ -8,11 +8,11 @@ Filename Convention and Difficulty Indicator
 
 Directory and file names have the following format:
 
-Ldifficulty_DescriptiveNameContentType.php
+    L{difficulty}_{DescriptiveName}{ContentType}.php
 
-..which translates into:
+Which translates into:
 
-L3_RatingExercise.php
+    L3_RatingExercise.php
 
 The letter 'L' at the beginning stands for 'Level' and is followed by a number from 1 (basic) to 5 (challenging) denoting the perceived difficulty of the exercise.
 
