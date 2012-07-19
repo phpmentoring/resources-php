@@ -19,7 +19,7 @@ Filename Convention
 
 Directory and file names have the following format:
 
-Ldifficulty_DescriptiveNameContentType.php  
+L{difficulty}_{DescriptiveName}{ContentType}.php  
 
 ...which translates to:
 
