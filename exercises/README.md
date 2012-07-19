@@ -21,7 +21,7 @@ Directory and file names have the following format:
 
 L{difficulty}_{DescriptiveName}{ContentType}.php  
 
-...which translates to:
+Which translates to:
 
 L3_RatingExercise.php  or  L3_RatingSolution.php
 
