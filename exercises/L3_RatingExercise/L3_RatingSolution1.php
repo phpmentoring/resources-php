@@ -11,30 +11,28 @@ function getRating()
 {
     $actualRating = rand(0,50) / 10;
 
-    $star_full = $actualRating;
+    $starFull = $actualRating;
+  
+    $starPartial = 0;
 
-
-    if (is_float($star_full))
+    if (is_float($starFull))
     {
 
-        $star_partial = 1;
+        $starPartial = 1;
 
-        $star_full = (int)$star_full;
+        $starFull = (int)$starFull;
 
-    } else if (is_int($star_full)){
-
-        $star_partial = 0;
     }
 
-    $star_empty = 5 - $star_full - $star_partial;
+    $star_empty = 5 - $starFull - $starPartial;
 
     $ratingDisplay = '';
 
-    for($i = 0; $i < $star_full; $i++) {
+    for($i = 0; $i < $starFull; $i++) {
         $ratingDisplay .= 'Full Star  ';
     }
 
-    if ($star_partial)
+    if ($starPartial)
     {
         $ratingDisplay .= 'Partial Star  ';
     }
