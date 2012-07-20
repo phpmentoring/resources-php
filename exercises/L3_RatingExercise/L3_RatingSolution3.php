@@ -1,17 +1,13 @@
 <?php
 function ratingExercise() {
 
-    $fullStar = '<img src="fullStar.png" />';
-    $partialStar = '<img src="partialStar.png" />';
-    $emptyStar = '<img src="emptyStar.png" />';
+    $fullStar = '<img src="assets/star_full.png" />';
+    $partialStar = '<img src="assets/star_partial.png" />';
+    $emptyStar = '<img src="assets/star_empty.png" />';
     $ratingArr = array($emptyStar, $emptyStar, $emptyStar, $emptyStar, $emptyStar);
     $str = "";
 
-
-
-
     $rating = mt_rand(1,50) / 10;
-
     $int = floor($rating);//how many full stars
     $rest = 5 - $int;//how many empty stars
     $dec = $rating - $int;//do we have partial star
@@ -19,7 +15,6 @@ function ratingExercise() {
     if($int >= 1){
 
         for ($i = 0; $i < $int; $i++) {//replace the empty stars with full stars in array
-
             $ratingArr[$i] = $fullStar;
         }
 
@@ -36,9 +31,6 @@ function ratingExercise() {
     }
 
     return $str." ($rating)";
-
-
-
 
 }
 echo ratingExercise();
