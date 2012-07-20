@@ -1,9 +1,9 @@
 <?php
 function ratingExercise() {
 
-    $fullStar = '<img src="assets/star_empty.png" />';
+    $fullStar = '<img src="assets/star_full.png" />';
     $partialStar = '<img src="assets/star_partial.png" />';
-    $emptyStar = '<img src="assets/star_full.png" />';
+    $emptyStar = '<img src="assets/star_empty.png" />';
     $ratingArr = array($emptyStar, $emptyStar, $emptyStar, $emptyStar, $emptyStar);
     $str = "";
 
