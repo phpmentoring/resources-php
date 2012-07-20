@@ -21,7 +21,12 @@ Contributions
 
 If you have any code you would like to contribute to this repository, please feel free to open a pull request.  Please keep the code pure PHP so as not to detract from the learning experience.
 
+Feedback
+--------
+Contributors to this repo would be very grateful to receive feedback on their hard work!  If you would like to praise or comment on any item, or the repo as a whole, please do so in the issue tracker.  We're keen to know what you think, so please take a moment to let us know.
+
+
 Contact
 -------
 
-If you have any questions or comments about this repo or its contents, please ping Tocacar on IRC freenode #phpmentoring.  Thank you.
+If you have any questions about this repo, or need some help to contribute, please ping Tocacar on IRC freenode #phpmentoring.  Thank you.
