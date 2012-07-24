@@ -1,8 +1,8 @@
 <?php
 
 function getRating($useImages = true) {
-	//array that maps 0 to empty, 1 to partial, 2 - 6 to full
-	$str = array('star_empty', 'star_partial', 'star_full', 'star_full', 'star_full', 'star_full', 'star_full');
+	//array that maps 0 to partial, 1 to empty, 2 - 4 to full
+	$str = array('star_partial', 'star_empty', 'star_full', 'star_full', 'star_full');
 
 	if($useImages) {
 		foreach($str as &$img) {
@@ -11,14 +11,11 @@ function getRating($useImages = true) {
 	}
 	
 	//create an array of five slots (0 to 6 in each slot)
-	$rating = array();
+	$rating = array(1,1,1,1,0);
 	for($i = 0; $i < 5; $i++) { 
-		$rating[] = rand(0,6);
+		$rating[$i] = rand($rating[$i],4);
 	}
-
-	//reverse sort the slots to 6 (full) comes first and empty (0) comes last
-	rsort($rating);
-
+        rsort($rating);
 	//replace the numbers with their string representation
 	foreach($rating as &$r) {
 		$r = $str[$r];
