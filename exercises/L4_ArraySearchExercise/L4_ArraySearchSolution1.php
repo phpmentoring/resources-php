@@ -4,22 +4,24 @@
  * Date: 24.07.12
  * Time: 15:03
  */
-function getSunHours($zipcode)
-{
+
+include '../assets/sunhours.php';
+
+function getSunHours($zipcode) {
 	global $aSunHours;
 
-	if($plz < $Sonnenstunden[0][0])
+	if($zipcode < $aSunHours[0][0])
 	{
 		return -1;
 	}
 
-	foreach($Sonnenstunden as $a)
+	foreach($aSunHours as $a)
 	{
-		if($a[0] == $plz)
+		if($a[0] == $zipcode)
 		{
 			return $a[1];
 		}
 	}
 
-	return holeSonnenstunden($plz-1);
+	return getSunHours($zipcode-1);
 }
