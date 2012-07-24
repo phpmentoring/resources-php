@@ -5,7 +5,7 @@
  * Time: 15:03
  */
 
-include '../assets/sunhours.php';
+include 'assets/sunhours.php';
 
 function getSunHours($zipcode, $aSunHours) {
 
