@@ -19,4 +19,4 @@ If you know HTML, output `<img>` tags instead of strings, using the star images 
 
 ##Solution:
 
-See [L3_RatingSolution1.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution1.php) and [L3_RatingSolution2.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution2.php) for solutions to this exercise.
+See [L3_RatingSolution1.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution1.php) and [L3_RatingSolution2.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution2.php) for solutions to this exercise.  Other solutions in the repo were submitted by contributors via pull request.
