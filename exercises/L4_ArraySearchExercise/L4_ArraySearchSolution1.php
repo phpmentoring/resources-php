@@ -7,8 +7,7 @@
 
 include '../assets/sunhours.php';
 
-function getSunHours($zipcode) {
-	global $aSunHours;
+function getSunHours($zipcode, $aSunHours) {
 
 	if($zipcode < $aSunHours[0][0])
 	{
@@ -23,5 +22,5 @@ function getSunHours($zipcode) {
 		}
 	}
 
-	return getSunHours($zipcode-1);
+	return getSunHours($zipcode-1, $aSunHours);
 }
