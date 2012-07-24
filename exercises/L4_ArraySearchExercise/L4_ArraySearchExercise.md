@@ -1,0 +1,1 @@
+Create an algorithm for the function "getSunHours", which will return the sun hours by zipcode from the 2 dimensional array "aSunHours". The Param 1 from "getSunHours" has to be the zipcode.
