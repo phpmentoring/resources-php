@@ -1,0 +1,9 @@
+This document serves to educate developers about the various software licenses and it's practices.
+
+MIT License             http://www.linfo.org/mitlicense.html
+GPL                     http://www.gnu.org/licenses/gpl-howto.html
+AGPL                    http://www.gnu.org/licenses/agpl.html
+Apache license          http://www.oss-watch.ac.uk/resources/apache2.xml
+
+
+Overview of various licenses and terminology: http://www.smashingmagazine.com/2011/06/14/understanding-copyright-and-licenses/
