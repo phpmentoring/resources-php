@@ -8,13 +8,11 @@ Create a function which returns the xp for a given level. Use the following sequ
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td>100</td><td>1</td>
-			<td>300</td><td>2</td>
-			<td>600</td><td>3</td>
-			<td>1000</td><td>4</td>
-			<td>1500</td><td>5</td>
-		</tr>
+		<tr><td>100</td><td>1</td></tr>
+		<tr><td>300</td><td>2</td></tr>
+		<tr><td>600</td><td>3</td></tr>
+		<tr><td>1000</td><td>4</td></tr>
+		<tr><td>1500</td><td>5</td></tr>
 	</tbody>
 <table>
 
