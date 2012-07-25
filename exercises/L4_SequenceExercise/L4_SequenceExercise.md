@@ -1,12 +1,23 @@
 Level 4 Sequence Exercise
 -----------------------
 Create a function which returns the xp for a given level. Use the following sequence for the algorithm.
-||xp||level||
-|100|1|
-|300|2|
-|600|3|
-|1000|4|
-|1500|5|
+<table>
+	<thead>
+		<tr>
+			<th>xp</th><th>level</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>100</td><td>1</td>
+			<td>300</td><td>2</td>
+			<td>600</td><td>3</td>
+			<td>1000</td><td>4</td>
+			<td>1500</td><td>5</td>
+		</tr>
+	</tbody>
+<table>
+
 
 ##Rules:
 * the first param of the function may be the level
