@@ -8,3 +8,4 @@ PHP CLI Tutorial                  http://www.php-cli.com/php-cli-tutorial.shtml
 
 PHP Master                        http://phpmaster.com/
 
+PHP Security sheet          https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
