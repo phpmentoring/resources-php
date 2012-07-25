@@ -21,7 +21,7 @@ Create a function which returns the xp for a given level. Use the following sequ
 * the first param of the function may be the level
 
 ##Solution:
-See [L4_SequenceSolution1.php](https://github.com/mindyk/beginning-php/blob/master/exercises/L4_SequenceExercise/L4_SequenceExerciseSolution1.php)
+See [L4_SequenceSolution1.php](https://github.com/mindyk/beginning-php/blob/master/exercises/L4_SequenceExercise/L4_SequenceSolution1.php)
 
 ##Author:
 This exercise was submitted by mindyk
