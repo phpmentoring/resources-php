@@ -1,0 +1,37 @@
+The Grumpy Programmer's Guide To Mentoring
+
+So you've decided you want to become a mentor to another programmer? Sharing
+your skills and knowledge with everyone is awesome, so thanks for agreeing
+to do something like it. Here are a few thoughts on how to make the 
+experience awesome for both mentor and protégé.
+
+#1. It's about making someone better
+
+Clearly, you have a skill that is in demand and other people want to get
+better at. So your entire approach should be aimed to helping that other
+person build their skills up. Ask them questions about what they are
+having trouble with, and show extraordinary patience in explaining topics
+and concepts that might be obvious to you but completely new to them.
+
+#2. Regular communication
+
+I am currently mentoring 3 programmers on the finer arts of testing. I 
+have a weekly voice-to-voice chat with them.
+
+#3. But not too much communication
+
+I tell my protégés that they can email me at any time and also give them
+IM account names they can reach me at, but I also made it clear that I
+have a day job and that will always take priority. Ad-hoc communication
+channels are good, but set the expectation that these boundaries need
+to be respected if this relationship is going to work out.
+
+#4. Build a lasting friendship
+
+In my talks I am focusing on helping them out with their testing skills
+but also becoming their friend in the process. The relationship between
+mentors and protégés can be one that lasts long after they are no longer
+actively working through these problems together. Learn about people
+and their lives outside of coding, you'd be surprised what could happen.
+
+
