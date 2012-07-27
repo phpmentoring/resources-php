@@ -11,12 +11,12 @@ Clearly, you have a skill that is in demand and other people want to get
 better at. So your entire approach should be aimed to helping that other
 person build their skills up. Ask them questions about what they are
 having trouble with, and show extraordinary patience in explaining topics
-and concepts that might be obvious to you but completely new to them
+and concepts that might be obvious to you but completely new to them.
 
 #2. Regular communication
 
 I am currently mentoring 3 programmers on the finer arts of testing. I 
-have a weekly voice-to-voice chat with them
+have a weekly voice-to-voice chat with them.
 
 #3. But not too much communication
 
