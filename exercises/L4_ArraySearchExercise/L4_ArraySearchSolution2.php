@@ -1,5 +1,6 @@
 <?php
 require_once("assets/sunhours.php");
+
 function getSunHours($zip, $aSunHours) {
    if($aSunHours[0][0] > $zip)
       return -1;
@@ -11,5 +12,4 @@ function getSunHours($zip, $aSunHours) {
    return $aSunHours[count($aSunHours) - 1][1];
 }
 
-echo getSunHours(21076, $aSunHours);
 ?>
