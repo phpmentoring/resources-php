@@ -19,7 +19,7 @@ If you know HTML, output `<img>` tags instead of strings, using the star images 
 
 ##Solution:
 
-See [L3_RatingSolution1.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution1.php) and [L3_RatingSolution2.php](https://github.com/phpmentoring/beginning-php/blob/master/exercises/L3_RatingExercise/L3_RatingSolution2.php) for solutions to this exercise.  Other solutions in the repo were submitted by contributors via pull request.
+See [RatingSolution1.php](https://github.com/phpmentoring/resources-php/blob/master/exercises/Novice/RatingExercise/RatingSolution1.php) and [RatingSolution2.php](https://github.com/phpmentoring/resources-php/blob/master/exercises/Novice/RatingExercise/RatingSolution2.php) for solutions to this exercise.  Other solutions in the repo were submitted by contributors via pull request.
 
 ##Author:
 
